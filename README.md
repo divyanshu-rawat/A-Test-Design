@@ -12,7 +12,7 @@
 
 ### Description 
 
-* Set up, designed and style a web page using Front-End Web UI Frameworks Base css.
+* Set up, designed and style a web page using Front-End Web UI Frameworks Bootstrap.
 
 
 ### Installation Instructions :grey_exclamation:
@@ -25,7 +25,7 @@
 
 ### Dependencies
 
-* Base css  
+* Bootstrap
 
 
 
