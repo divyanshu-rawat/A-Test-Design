@@ -10,13 +10,6 @@
 
 ## 
 
-### Insipiration 
-
-> [Click Me !](https://dribbble.com/shots/2714810-CS-GO-Client-Design/attachments/549087)
-
-##
-
-
 #### For Any Query Ping Me
 
 [![Join the chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/divyanshu001)
